@@ -45,12 +45,10 @@ Sunday\
 day time task\
  \
 Example: \
-
 Monday 09:00 Gym \
 Tuesday 13:30 Meeting with team \
 Friday 15:00 Study session \
 done \
-
 to finish input. \
 
 **Example Usage**
