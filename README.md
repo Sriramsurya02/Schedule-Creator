@@ -14,7 +14,7 @@
 - Python 3.x
 - openpyxl
 
-**How It Works**
+**How It Works** \n
 *1. Workbook Creation*
 - Creates a new Excel file
 - Adds a worksheet titled "Schedule"
