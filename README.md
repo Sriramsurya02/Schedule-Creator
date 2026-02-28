@@ -42,14 +42,11 @@ Sunday\
 
 *4. Task Input Format*
 - When running the script, enter tasks in the format:
-day time task\
- \
-Example: \
-Monday 09:00 Gym \
-Tuesday 13:30 Meeting with team \
-Friday 15:00 Study session \
-done \
-to finish input. \
+day time task   
+Example:   
+Monday 09:00 Gym 
+
+- Type done to finish input. 
 
 **Example Usage**
 
