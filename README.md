@@ -23,35 +23,32 @@
 09:00\
 09:30\
 10:00\
-...
-16:30
+...\
+16:30\
 *3. Layout Structure*
 - Each day occupies two columns:
 - One spacer column
 - One task column
-Days included:
-Monday
-Tuesday
-Wednesday
-Thursday
-Friday
-Saturday
-Sunday
+Days included:\
+Monday\
+Tuesday\
+Wednesday\
+Thursday\
+Friday\
+Saturday\
+Sunday\
 *4. Task Input Format*
 - When running the script, enter tasks in the format:
-day time task
+day time task\
+\
+Example:\
 
-Example:
+Monday 09:00 Gym\
+Tuesday 13:30 Meeting with team\
+Friday 15:00 Study session\
+done\
 
-Monday 09:00 Gym
-Tuesday 13:30 Meeting with team
-Friday 15:00 Study session
-
-Type:
-
-done
-
-to finish input.
+to finish input.\
 
 **Example Usage**
 
@@ -61,18 +58,18 @@ python schedule.py
 
 - Input example:
 
-Enter tasks (day time task), or 'done' to finish:
-Monday 09:00 Gym
-Tuesday 13:30 Project Meeting
-done
+Enter tasks (day time task), or 'done' to finish:\
+Monday 09:00 Gym\
+Tuesday 13:30 Project Meeting\
+done\
 
 - Output:
 
-Schedule saved to schedule.xlsx
+Schedule saved to schedule.xlsx\
 
-The Excel file will be saved to:
-D:\Code\Schedule\schedule.xlsx
-You can modify the path variable in the script to change the save location.
+The Excel file will be saved to:\
+D:\Code\Schedule\schedule.xlsx\
+You can modify the path variable in the script to change the save location.\
 
 **Customization**
 - You can easily modify:
