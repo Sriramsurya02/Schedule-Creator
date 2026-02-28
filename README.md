@@ -17,9 +17,9 @@
 **How It Works** \
 *1. Workbook Creation*
 - Creates a new Excel file
-- Adds a worksheet titled "Schedule"
+- Adds a worksheet titled "Schedule" \
 *2. Time Generation*
-- Time slots are generated automatically:\
+- Time slots are generated automatically: \
 09:00\
 09:30\
 10:00\
@@ -40,15 +40,15 @@ Sunday\
 *4. Task Input Format*
 - When running the script, enter tasks in the format:
 day time task\
-\
-Example:\
+ \
+Example: \
 
-Monday 09:00 Gym\
-Tuesday 13:30 Meeting with team\
-Friday 15:00 Study session\
-done\
+Monday 09:00 Gym \
+Tuesday 13:30 Meeting with team \
+Friday 15:00 Study session \
+done \
 
-to finish input.\
+to finish input. \
 
 **Example Usage**
 
@@ -58,18 +58,18 @@ python schedule.py
 
 - Input example:
 
-Enter tasks (day time task), or 'done' to finish:\
-Monday 09:00 Gym\
-Tuesday 13:30 Project Meeting\
-done\
+Enter tasks (day time task), or 'done' to finish: \
+Monday 09:00 Gym \
+Tuesday 13:30 Project Meeting \
+done \
 
 - Output:
 
-Schedule saved to schedule.xlsx\
+Schedule saved to schedule.xlsx \
 
-The Excel file will be saved to:\
-D:\Code\Schedule\schedule.xlsx\
-You can modify the path variable in the script to change the save location.\
+The Excel file will be saved to: \
+D:\Code\Schedule\schedule.xlsx \
+You can modify the path variable in the script to change the save location. \
 
 **Customization**
 - You can easily modify:
