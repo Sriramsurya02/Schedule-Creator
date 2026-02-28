@@ -17,7 +17,8 @@
 **How It Works** \
 *1. Workbook Creation*
 - Creates a new Excel file
-- Adds a worksheet titled "Schedule" \
+- Adds a worksheet titled "Schedule" 
+
 *2. Time Generation*
 - Time slots are generated automatically: \
 09:00\
@@ -25,6 +26,7 @@
 10:00\
 ...\
 16:30\
+
 *3. Layout Structure*
 - Each day occupies two columns:
 - One spacer column
@@ -37,6 +39,7 @@ Thursday\
 Friday\
 Saturday\
 Sunday\
+
 *4. Task Input Format*
 - When running the script, enter tasks in the format:
 day time task\
