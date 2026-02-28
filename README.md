@@ -14,15 +14,15 @@
 - Python 3.x
 - openpyxl
 
-**How It Works** \n
+**How It Works** \
 *1. Workbook Creation*
 - Creates a new Excel file
 - Adds a worksheet titled "Schedule"
 *2. Time Generation*
-- Time slots are generated automatically:
-09:00
-09:30
-10:00
+- Time slots are generated automatically:\
+09:00\
+09:30\
+10:00\
 ...
 16:30
 *3. Layout Structure*
